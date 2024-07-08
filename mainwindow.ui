@@ -17,13 +17,7 @@
    <string notr="true">QMainWindow {
 background-color: #e3e7e4;
 }
-
-QPushButton {
-background-color: #917d93;
-border: 2px solid #816d77;
-color: #26232c;
-border-radius: 8px;
-}</string>
+</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QLabel" name="label_mini">
